@@ -1,17 +1,16 @@
-서브 프로젝트 1 주제
 
-코스피 지수
-URL ='https://m.stock.naver.com/domestic/index/KOSPI/total'
+![고양이](./images/%EA%B3%A0%EC%96%91%EC%9D%B4.jpg)
 
--국내 주요경제지표를 탐색하기 위함.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=데이터%20분석&fontSize=90)
 
 
-- 코스피 지수의 1년치의 등락에 대해 일별시세 항목을 크롤링하여 수집 후 ( 날짜, 종가, 전일대비, 등락률, 시가 , 고가, 저가) 항목을 수집
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Ra_package)](https://github.com/Rapackage)
 
-- 결측값 확인.
 
-- 코스피 지수 일별시세의 종가 확인.
+![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
+![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
+![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-- 전일대비 등락이 -인 날과 +인 날을 구분.
-
-- 일별시세 항목에서 고가와 저가간에 금액 차이를 전처리하고 그래프를 통해 파악.
