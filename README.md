@@ -1,16 +1,27 @@
 
-![고양이](./images/%EA%B3%A0%EC%96%91%EC%9D%B4.jpg)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=데이터%20분석&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sangjoon%20Github&fontSize=80)
 
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Ra_package)](https://github.com/Rapackage)
+-안녕하세요!😁  
+
+데이터 분석가를 준비하고 있는 **라상준** 입니다.
 
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+### Platfroms & Languages
 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black">    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">   ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)   <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=Microsoft Excel&logoColor=black">
+
+
+
+### Tools
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio code&logoColor=black">    <img src="https://img.shields.io/badge/Jupyter Code-F37626?style=for-the-badge&logo=Jupyter&logoColor=black">    <img src="https://img.shields.io/badge/Google Colab Code-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=black"> 
+
+
+
+
+### SNS
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=black">    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black">
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasangjoon&show_icons=true&theme=react)
