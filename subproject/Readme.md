@@ -1,9 +1,9 @@
-###서브 프로젝트 1 주제
+# 서브 프로젝트 1 주제
 
-코스피 지수
-URL ='https://m.stock.naver.com/domestic/index/KOSPI/total'
+## 코스피 지수
+### URL ='https://m.stock.naver.com/domestic/index/KOSPI/total'
 
--국내 주요경제지표를 탐색하기 위함.
+#### 목적 : 국내 주요경제지표를 탐색하기 위함.
 
 
 - 코스피 지수의 근 1년치의 등락에 대해 일별시세 항목을 크롤링하여 수집 후 ( 날짜, 종가, 전일대비, 등락률, 시가 , 고가, 저가) 항목을 수집
